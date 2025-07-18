@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+    <name>Türkçe Dil Paketi</name>
+    <code>turkish_language_pack</code>
+    <version>4.1.0</version>
+    <author>OpenCart Türkiye</author>
+    <link>https://www.opencart.com</link>
+    <description>OpenCart 4.1 için tam Türkçe dil paketi - Admin Panel, Frontend ve Kurulum</description>
+    
+    <!-- Admin Dil Dosyaları -->
+    <file path="admin/language/tr-tr/">
+        <operation>
+            <search><![CDATA[]]></search>
+            <add position="replace"><![CDATA[]]></add>
+        </operation>
+    </file>
+    
+    <!-- Catalog Dil Dosyaları -->
+    <file path="catalog/language/tr-tr/">
+        <operation>
+            <search><![CDATA[]]></search>
+            <add position="replace"><![CDATA[]]></add>
+        </operation>
+    </file>
+    
+    <!-- Install Dil Dosyaları -->
+    <file path="install/language/tr-tr/">
+        <operation>
+            <search><![CDATA[]]></search>
+            <add position="replace"><![CDATA[]]></add>
+        </operation>
+    </file>
+</modification>
